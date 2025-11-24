@@ -1,0 +1,7 @@
+{
+  "name": "TwinLens Translator",
+  "description": "A dual-view translation camera app. Compare original and translated text side-by-side with synchronized zooming.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
